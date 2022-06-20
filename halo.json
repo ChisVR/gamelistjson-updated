@@ -1,0 +1,903 @@
+[
+    {
+        "id": 740,
+        "cover": 128403,
+        "involved_companies": [
+            22512,
+            22513,
+            22514,
+            46789,
+            46790
+        ],
+        "name": "Halo: Combat Evolved",
+        "updated_at": 1654904063,
+        "websites": [
+            951,
+            2996,
+            6037
+        ]
+    },
+    {
+        "id": 2640,
+        "cover": 90047,
+        "involved_companies": [
+            6306,
+            6307
+        ],
+        "name": "Halo: Combat Evolved Anniversary",
+        "updated_at": 1654302892,
+        "websites": [
+            966,
+            2991,
+            206207
+        ]
+    },
+    {
+        "id": 7348,
+        "cover": 84569,
+        "involved_companies": [
+            75532,
+            75533,
+            75534,
+            75535,
+            75536,
+            75537,
+            87634,
+            87635,
+            87636
+        ],
+        "name": "Halo: The Master Chief Collection",
+        "updated_at": 1655325504,
+        "websites": [
+            6055,
+            6056,
+            102220,
+            102221,
+            140614,
+            205176,
+            205177,
+            205178,
+            205179,
+            205180,
+            205181
+        ]
+    },
+    {
+        "id": 45148,
+        "cover": 168417,
+        "involved_companies": [
+            57118,
+            57119
+        ],
+        "name": "Halo 4: Limited Edition",
+        "updated_at": 1629383387
+    },
+    {
+        "id": 163108,
+        "cover": 164724,
+        "name": "Halo 3 + Halo Wars",
+        "updated_at": 1628504497
+    },
+    {
+        "id": 989,
+        "cover": 90053,
+        "involved_companies": [
+            2380,
+            2381
+        ],
+        "name": "Halo 3: ODST",
+        "updated_at": 1655318522,
+        "websites": [
+            2993,
+            6053,
+            6054,
+            179890
+        ]
+    },
+    {
+        "id": 991,
+        "cover": 90051,
+        "involved_companies": [
+            4175,
+            52184
+        ],
+        "name": "Halo 4",
+        "updated_at": 1655204193,
+        "websites": [
+            2994,
+            6035,
+            6036,
+            179892,
+            270804
+        ]
+    },
+    {
+        "id": 43955,
+        "cover": 129808,
+        "involved_companies": [
+            57122,
+            57123
+        ],
+        "name": "Halo 3: Legendary Edition",
+        "updated_at": 1619163996
+    },
+    {
+        "id": 77343,
+        "cover": 130416,
+        "involved_companies": [
+            145726,
+            145727
+        ],
+        "name": "Halo 4: King of the Hill Fueled by Mountain Dew",
+        "updated_at": 1629398262
+    },
+    {
+        "id": 103281,
+        "cover": 111228,
+        "involved_companies": [
+            104506,
+            104507,
+            104508
+        ],
+        "name": "Halo Infinite",
+        "updated_at": 1655203723,
+        "websites": [
+            80091,
+            80092,
+            80093,
+            80095,
+            86262,
+            86263,
+            147670,
+            147889,
+            147890,
+            147891,
+            205182
+        ]
+    },
+    {
+        "id": 987,
+        "cover": 90048,
+        "involved_companies": [
+            2378,
+            2379
+        ],
+        "name": "Halo 3",
+        "updated_at": 1654531259,
+        "websites": [
+            1058,
+            2998,
+            6034,
+            179889,
+            271130
+        ]
+    },
+    {
+        "id": 986,
+        "cover": 89683,
+        "involved_companies": [
+            14502,
+            22517,
+            46787,
+            46788
+        ],
+        "name": "Halo 2",
+        "updated_at": 1654531259,
+        "websites": [
+            962,
+            2995,
+            6052
+        ]
+    },
+    {
+        "id": 6803,
+        "cover": 90052,
+        "involved_companies": [
+            16140,
+            52138
+        ],
+        "name": "Halo 5: Guardians",
+        "updated_at": 1653600861,
+        "websites": [
+            6057,
+            6058,
+            126590,
+            214008,
+            214009,
+            214010,
+            214011,
+            214012,
+            214013
+        ]
+    },
+    {
+        "id": 4839,
+        "cover": 90075,
+        "involved_companies": [
+            52154,
+            52155,
+            52156
+        ],
+        "name": "Halo: Spartan Assault",
+        "updated_at": 1651859454,
+        "websites": [
+            6059,
+            44320,
+            52028,
+            52029,
+            66511
+        ]
+    },
+    {
+        "id": 45147,
+        "cover": 129728,
+        "involved_companies": [
+            57120,
+            57121
+        ],
+        "name": "Halo 3: Limited Edition",
+        "updated_at": 1619163989
+    },
+    {
+        "id": 43956,
+        "cover": 27089,
+        "involved_companies": [
+            57136,
+            57137
+        ],
+        "name": "Halo Wars: Limited Edition",
+        "updated_at": 1621236778,
+        "websites": [
+            61286
+        ]
+    },
+    {
+        "id": 45146,
+        "cover": 157159,
+        "involved_companies": [
+            57130,
+            57131
+        ],
+        "name": "Halo: Reach Limited Edition",
+        "updated_at": 1625446662
+    },
+    {
+        "id": 45145,
+        "cover": 44036,
+        "involved_companies": [
+            57124,
+            57125
+        ],
+        "name": "Halo 5: Guardians Limited Edition",
+        "updated_at": 1617614166
+    },
+    {
+        "id": 45149,
+        "cover": 128386,
+        "involved_companies": [
+            57134,
+            57135
+        ],
+        "name": "Halo 2: Limited Collector's Edition",
+        "updated_at": 1615745823
+    },
+    {
+        "id": 18286,
+        "cover": 14552,
+        "involved_companies": [
+            33670,
+            33671
+        ],
+        "name": "Halo 2600",
+        "updated_at": 1622520989,
+        "websites": [
+            143105,
+            143106
+        ]
+    },
+    {
+        "id": 108485,
+        "name": "Halo Roll",
+        "updated_at": 1604620800
+    },
+    {
+        "id": 64606,
+        "cover": 166974,
+        "involved_companies": [
+            109019
+        ],
+        "name": "Halo Zero",
+        "updated_at": 1654500886,
+        "websites": [
+            154121
+        ]
+    },
+    {
+        "id": 988,
+        "cover": 88560,
+        "involved_companies": [
+            7944,
+            7945
+        ],
+        "name": "Halo Wars",
+        "updated_at": 1653614589,
+        "websites": [
+            15680,
+            15681,
+            15682
+        ]
+    },
+    {
+        "id": 129018,
+        "cover": 121533,
+        "name": "Halo Beats!",
+        "updated_at": 1633078684,
+        "websites": [
+            132752
+        ]
+    },
+    {
+        "id": 990,
+        "cover": 90046,
+        "involved_companies": [
+            2382,
+            2383,
+            145352
+        ],
+        "name": "Halo: Reach",
+        "updated_at": 1653550662,
+        "websites": [
+            2990,
+            6032,
+            6033,
+            126894
+        ]
+    },
+    {
+        "id": 60459,
+        "cover": 90074,
+        "involved_companies": [
+            88142,
+            88143,
+            88144,
+            88145
+        ],
+        "name": "Halo Online",
+        "updated_at": 1650624301,
+        "websites": [
+            126563,
+            126564
+        ]
+    },
+    {
+        "id": 11570,
+        "cover": 103687,
+        "involved_companies": [
+            35160,
+            35162,
+            45130
+        ],
+        "name": "Halo Wars 2",
+        "updated_at": 1651521192,
+        "websites": [
+            15676,
+            15677,
+            15678,
+            214766,
+            214767,
+            214768,
+            214769,
+            214770,
+            214771,
+            214772
+        ]
+    },
+    {
+        "id": 72766,
+        "cover": 90069,
+        "involved_companies": [
+            55327
+        ],
+        "name": "Halo: Recruit",
+        "updated_at": 1604620800
+    },
+    {
+        "id": 24782,
+        "cover": 90068,
+        "involved_companies": [
+            55681,
+            55682,
+            110373
+        ],
+        "name": "Halo 5: Forge",
+        "updated_at": 1628863978,
+        "websites": [
+            59182,
+            156777,
+            156778
+        ]
+    },
+    {
+        "id": 26731,
+        "involved_companies": [
+            43478
+        ],
+        "name": "Mega Bloks Halo",
+        "updated_at": 1583625600
+    },
+    {
+        "id": 76172,
+        "cover": 166994,
+        "involved_companies": [
+            145591
+        ],
+        "name": "Pixel Force: Halo",
+        "updated_at": 1629249226
+    },
+    {
+        "id": 7849,
+        "cover": 87363,
+        "involved_companies": [
+            18314,
+            18315,
+            18316
+        ],
+        "name": "Halo: Spartan Strike",
+        "updated_at": 1643902394,
+        "websites": [
+            6061,
+            43843,
+            43844,
+            53534
+        ]
+    },
+    {
+        "id": 137288,
+        "cover": 113390,
+        "involved_companies": [
+            106747
+        ],
+        "name": "Halo: Reach Evolved",
+        "updated_at": 1625431940,
+        "websites": [
+            168936,
+            168937,
+            168938
+        ]
+    },
+    {
+        "id": 125009,
+        "cover": 128083,
+        "involved_companies": [
+            123476,
+            123477,
+            123478,
+            123479
+        ],
+        "name": "Halo 2: Anniversary",
+        "updated_at": 1646401836,
+        "websites": [
+            176118,
+            176119,
+            176120,
+            176121,
+            176122
+        ]
+    },
+    {
+        "id": 102066,
+        "cover": 181263,
+        "involved_companies": [
+            64911,
+            64912,
+            64913
+        ],
+        "name": "Halo: Fireteam Raven",
+        "updated_at": 1632709877,
+        "websites": [
+            79346,
+            79347
+        ]
+    },
+    {
+        "id": 142245,
+        "cover": 124175,
+        "involved_companies": [
+            116402
+        ],
+        "name": "Coral: A Halo Fan Game",
+        "updated_at": 1643209845,
+        "websites": [
+            165374,
+            165375,
+            165376
+        ]
+    },
+    {
+        "id": 75415,
+        "cover": 44043,
+        "involved_companies": [
+            145714,
+            145715,
+            145716
+        ],
+        "name": "Halo 4: Majestic Map Pack",
+        "updated_at": 1634589073
+    },
+    {
+        "id": 75416,
+        "cover": 44044,
+        "involved_companies": [
+            145719,
+            145720,
+            145721
+        ],
+        "name": "Halo 4: Castle Map Pack",
+        "updated_at": 1634589075
+    },
+    {
+        "id": 165332,
+        "cover": 170928,
+        "involved_companies": [
+            146143
+        ],
+        "name": "Halo: Out With a Whimper",
+        "updated_at": 1629887842,
+        "websites": [
+            215263
+        ]
+    },
+    {
+        "id": 20855,
+        "cover": 44034,
+        "involved_companies": [
+            145710,
+            145711
+        ],
+        "name": "Halo 4: Champions Bundle",
+        "updated_at": 1629383386
+    },
+    {
+        "id": 75414,
+        "cover": 44042,
+        "involved_companies": [
+            145712,
+            145713
+        ],
+        "name": "Halo 4: Crimson Map Pack",
+        "updated_at": 1634589070
+    },
+    {
+        "id": 141865,
+        "cover": 123063,
+        "involved_companies": [
+            115210
+        ],
+        "name": "Halo 3 & Fable II Double Pack",
+        "updated_at": 1616375161
+    },
+    {
+        "id": 176906,
+        "involved_companies": [
+            153836
+        ],
+        "name": "Halo: Reach - Noble Map Pack",
+        "updated_at": 1634591287
+    },
+    {
+        "id": 3122,
+        "cover": 3136,
+        "involved_companies": [
+            121482,
+            121483
+        ],
+        "name": "Halo 2: Multiplayer Map Pack",
+        "updated_at": 1646932846,
+        "websites": [
+            963
+        ]
+    },
+    {
+        "id": 176905,
+        "involved_companies": [
+            153831,
+            153832
+        ],
+        "name": "Halo: Reach - Defiant Map Pack",
+        "updated_at": 1634591295
+    },
+    {
+        "id": 26183,
+        "cover": 188664,
+        "involved_companies": [
+            45527,
+            45528,
+            45529
+        ],
+        "name": "Halo Wars: Definitive Edition",
+        "updated_at": 1653477385,
+        "websites": [
+            33166,
+            33167
+        ]
+    },
+    {
+        "id": 27765,
+        "cover": 21013,
+        "name": "Halo Wars 2: Ultimate Edition",
+        "updated_at": 1598313600
+    },
+    {
+        "id": 43954,
+        "cover": 157160,
+        "involved_companies": [
+            57132,
+            57133
+        ],
+        "name": "Halo: Reach - Legendary Edition",
+        "updated_at": 1625446713
+    },
+    {
+        "id": 84476,
+        "cover": 141204,
+        "name": "Halo Wars 2: Complete Edition",
+        "updated_at": 1641601288
+    },
+    {
+        "id": 171280,
+        "cover": 198690,
+        "name": "Halo Infinite: Steelbook Edition",
+        "updated_at": 1638788564
+    },
+    {
+        "id": 176904,
+        "cover": 218358,
+        "involved_companies": [
+            153833,
+            153834
+        ],
+        "name": "Halo: Reach - Anniversary Map Pack",
+        "updated_at": 1650519862
+    },
+    {
+        "id": 142379,
+        "cover": 124589,
+        "involved_companies": [
+            116772
+        ],
+        "name": "Ruby's Rebalanced Halo 3 Campaign",
+        "updated_at": 1610388401,
+        "websites": [
+            165891
+        ]
+    },
+    {
+        "id": 142276,
+        "cover": 124262,
+        "involved_companies": [
+            116509
+        ],
+        "name": "Ruby's Rebalanced Halo CE Campaign",
+        "updated_at": 1610045602,
+        "websites": [
+            165502
+        ]
+    },
+    {
+        "id": 142297,
+        "cover": 124333,
+        "involved_companies": [
+            116598
+        ],
+        "name": "Ruby's Rebalanced Halo 2 Campaign",
+        "updated_at": 1610129397,
+        "websites": [
+            165596
+        ]
+    },
+    {
+        "id": 75417,
+        "cover": 141255,
+        "name": "Halo Wars 2: Operation Spearbreaker",
+        "updated_at": 1639065979
+    },
+    {
+        "id": 196656,
+        "cover": 226848,
+        "name": "Halo Infinite: Season 2 - Lone Wolves",
+        "updated_at": 1655082138,
+        "websites": [
+            274504,
+            274505,
+            274506,
+            274507,
+            274508,
+            274509
+        ]
+    },
+    {
+        "id": 37383,
+        "cover": 94711,
+        "involved_companies": [
+            55122,
+            55123
+        ],
+        "name": "Halo Wars 2: Awakening the Nightmare",
+        "updated_at": 1639080554,
+        "websites": [
+            58252,
+            58253
+        ]
+    },
+    {
+        "id": 182199,
+        "cover": 198173,
+        "involved_companies": [
+            156897,
+            156898
+        ],
+        "name": "Halo Infinite: Season 1 - Heroes of Reach",
+        "updated_at": 1638596586,
+        "websites": [
+            246504
+        ]
+    },
+    {
+        "id": 75413,
+        "cover": 44040,
+        "involved_companies": [
+            57128,
+            57129
+        ],
+        "name": "Halo 5: Guardians Digital Deluxe Edition",
+        "updated_at": 1642206599
+    },
+    {
+        "id": 59773,
+        "cover": 127386,
+        "name": "Halos: React and Match Arcade Game",
+        "updated_at": 1612104549
+    },
+    {
+        "id": 45144,
+        "cover": 44039,
+        "involved_companies": [
+            57126,
+            57127
+        ],
+        "name": "Halo 5: Guardians Limited Collector's Edition",
+        "updated_at": 1598313600
+    },
+    {
+        "id": 205049,
+        "cover": 227543,
+        "involved_companies": [
+            175575,
+            175576,
+            175577
+        ],
+        "name": "Halo: The Master Chief Collection Season 2 - Spark",
+        "updated_at": 1655325484
+    },
+    {
+        "id": 205055,
+        "cover": 227549,
+        "involved_companies": [
+            175593,
+            175594,
+            175595
+        ],
+        "name": "Halo: The Master Chief Collection Season 3 - Recon",
+        "updated_at": 1655325212
+    },
+    {
+        "id": 41608,
+        "cover": 137985,
+        "involved_companies": [
+            57116,
+            57117
+        ],
+        "name": "Halo: The Master Chief Collection - Limited Edition",
+        "updated_at": 1619166081
+    },
+    {
+        "id": 205054,
+        "cover": 227548,
+        "involved_companies": [
+            175590,
+            175591,
+            175592
+        ],
+        "name": "Halo: The Master Chief Collection Season 8 - Mythic",
+        "updated_at": 1655325241
+    },
+    {
+        "id": 205048,
+        "cover": 227542,
+        "involved_companies": [
+            175572,
+            175573,
+            175574
+        ],
+        "name": "Halo: The Master Chief Collection Season 1 - Noble",
+        "updated_at": 1655325503
+    },
+    {
+        "id": 205053,
+        "cover": 227547,
+        "involved_companies": [
+            175587,
+            175588,
+            175589
+        ],
+        "name": "Halo: The Master Chief Collection Season 7 - Elite",
+        "updated_at": 1655325281
+    },
+    {
+        "id": 205052,
+        "cover": 227546,
+        "involved_companies": [
+            175584,
+            175585,
+            175586
+        ],
+        "name": "Halo: The Master Chief Collection Season 6 - Raven",
+        "updated_at": 1655325302
+    },
+    {
+        "id": 205051,
+        "cover": 227545,
+        "involved_companies": [
+            175581,
+            175582,
+            175583
+        ],
+        "name": "Halo: The Master Chief Collection Season 5 - Anvil",
+        "updated_at": 1655325340
+    },
+    {
+        "id": 205050,
+        "cover": 227544,
+        "involved_companies": [
+            175578,
+            175579,
+            175580
+        ],
+        "name": "Halo: The Master Chief Collection Season 4 - Reclaimer",
+        "updated_at": 1655325457
+    },
+    {
+        "id": 141820,
+        "cover": 122950,
+        "name": "HaloMD",
+        "updated_at": 1612217009
+    },
+    {
+        "id": 125649,
+        "cover": 166081,
+        "involved_companies": [
+            125777
+        ],
+        "name": "SPV3",
+        "updated_at": 1629052322,
+        "websites": [
+            213865
+        ]
+    },
+    {
+        "id": 117290,
+        "cover": 73517,
+        "involved_companies": [
+            77350,
+            77351,
+            77352
+        ],
+        "name": "ElDewrito",
+        "updated_at": 1650624301,
+        "websites": [
+            104516,
+            117478,
+            117479
+        ]
+    }
+]
