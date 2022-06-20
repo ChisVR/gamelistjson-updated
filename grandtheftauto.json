@@ -1,0 +1,598 @@
+[
+    {
+        "id": 1020,
+        "cover": 120937,
+        "involved_companies": [
+            18070,
+            18071,
+            20018
+        ],
+        "name": "Grand Theft Auto V",
+        "updated_at": 1655686583,
+        "websites": [
+            18730,
+            18731,
+            18732,
+            18733,
+            41200,
+            41201,
+            41202,
+            41203,
+            41204,
+            141326
+        ]
+    },
+    {
+        "id": 731,
+        "cover": 120955,
+        "involved_companies": [
+            5701,
+            5702,
+            5703,
+            20017
+        ],
+        "name": "Grand Theft Auto IV",
+        "updated_at": 1655498746,
+        "websites": [
+            16207,
+            67028,
+            123252,
+            123253
+        ]
+    },
+    {
+        "id": 52189,
+        "involved_companies": [
+            98111
+        ],
+        "name": "Grand Theft Auto VI",
+        "updated_at": 1651120826
+    },
+    {
+        "id": 163113,
+        "cover": 209281,
+        "name": "Grand Theft Auto: Rio de Janeiro",
+        "updated_at": 1644944896
+    },
+    {
+        "id": 163114,
+        "cover": 164861,
+        "involved_companies": [
+            144944
+        ],
+        "name": "Grand Theft Auto: Brasil",
+        "updated_at": 1653125629
+    },
+    {
+        "id": 730,
+        "cover": 120932,
+        "involved_companies": [
+            7700,
+            7701,
+            20012,
+            63952
+        ],
+        "name": "Grand Theft Auto III",
+        "updated_at": 1655498616,
+        "websites": [
+            17736,
+            17737,
+            76383,
+            78308,
+            123250,
+            123251
+        ]
+    },
+    {
+        "id": 980,
+        "cover": 120924,
+        "involved_companies": [
+            7713,
+            78988,
+            78989,
+            79267,
+            79268,
+            79270,
+            88713
+        ],
+        "name": "Grand Theft Auto",
+        "updated_at": 1654507736,
+        "websites": [
+            40723,
+            40724,
+            107692,
+            127688,
+            213739,
+            213740
+        ]
+    },
+    {
+        "id": 3266,
+        "cover": 120939,
+        "involved_companies": [
+            8519,
+            8520
+        ],
+        "name": "Grand Theft Auto Advance",
+        "updated_at": 1653847069,
+        "websites": [
+            1082,
+            107694,
+            242880
+        ]
+    },
+    {
+        "id": 45131,
+        "cover": 123528,
+        "involved_companies": [
+            104253,
+            104254
+        ],
+        "name": "Grand Theft Auto V: Special Edition",
+        "updated_at": 1652750258
+    },
+    {
+        "id": 27912,
+        "cover": 85406,
+        "involved_companies": [
+            45426,
+            45427,
+            45428
+        ],
+        "name": "Grand Theft Auto IV: Complete Edition",
+        "updated_at": 1653152559,
+        "websites": [
+            17627
+        ]
+    },
+    {
+        "id": 3265,
+        "cover": 84854,
+        "involved_companies": [
+            8516,
+            8517,
+            8518,
+            18539
+        ],
+        "name": "Grand Theft Auto IV: The Lost and Damned",
+        "updated_at": 1655337406,
+        "websites": [
+            1081
+        ]
+    },
+    {
+        "id": 44870,
+        "cover": 122835,
+        "name": "Grand Theft Auto",
+        "updated_at": 1637179501,
+        "websites": [
+            242936
+        ]
+    },
+    {
+        "id": 3174,
+        "cover": 104557,
+        "involved_companies": [
+            8170,
+            8171,
+            18533,
+            18534
+        ],
+        "name": "Grand Theft Auto IV: The Ballad of Gay Tony",
+        "updated_at": 1655337419,
+        "websites": [
+            1005
+        ]
+    },
+    {
+        "id": 200401,
+        "cover": 222968,
+        "involved_companies": [
+            170404,
+            172048
+        ],
+        "name": "Grand Theft Auto 2",
+        "updated_at": 1653299082
+    },
+    {
+        "id": 819,
+        "cover": 120926,
+        "involved_companies": [
+            170405,
+            170406,
+            170407
+        ],
+        "name": "Grand Theft Auto 2",
+        "updated_at": 1655419873,
+        "websites": [
+            16021,
+            67030,
+            99484,
+            213741,
+            213742,
+            213743
+        ]
+    },
+    {
+        "id": 200403,
+        "cover": 222967,
+        "name": "Grand Theft Auto 2",
+        "updated_at": 1653306054
+    },
+    {
+        "id": 198246,
+        "involved_companies": [
+            168523,
+            168524
+        ],
+        "name": "Grand Theft Auto 64",
+        "updated_at": 1651120842,
+        "websites": [
+            277669
+        ]
+    },
+    {
+        "id": 93901,
+        "cover": 67033,
+        "involved_companies": [
+            104255,
+            104256
+        ],
+        "name": "Grand Theft Auto V: Premium Online Edition & Whale Shark Card Bundle",
+        "updated_at": 1642205920
+    },
+    {
+        "id": 202302,
+        "cover": 222789,
+        "name": "Grand Theft Auto: Anime",
+        "updated_at": 1653125659
+    },
+    {
+        "id": 134710,
+        "cover": 222553,
+        "involved_companies": [
+            157154,
+            157155
+        ],
+        "name": "Grand Theft Auto Online",
+        "updated_at": 1654550203,
+        "websites": [
+            246805,
+            246806,
+            246807,
+            246808,
+            246809,
+            246810,
+            246811,
+            246812,
+            246813
+        ]
+    },
+    {
+        "id": 62701,
+        "cover": 42889,
+        "name": "Grand Theft Auto: iFruit",
+        "updated_at": 1635708814,
+        "websites": [
+            144886,
+            144887,
+            144888
+        ]
+    },
+    {
+        "id": 5850,
+        "cover": 122837,
+        "involved_companies": [
+            36394,
+            36395
+        ],
+        "name": "Grand Theft Auto: The Trilogy",
+        "updated_at": 1634925324,
+        "websites": [
+            7826,
+            7827,
+            7828,
+            213749,
+            213750,
+            213751,
+            213752
+        ]
+    },
+    {
+        "id": 126178,
+        "cover": 85407,
+        "name": "Grand Theft Auto: Underground",
+        "updated_at": 1651121368,
+        "websites": [
+            125008,
+            125009
+        ]
+    },
+    {
+        "id": 733,
+        "cover": 120935,
+        "involved_companies": [
+            8285,
+            20013,
+            63950,
+            63951
+        ],
+        "name": "Grand Theft Auto: Vice City",
+        "updated_at": 1655682114,
+        "websites": [
+            19244,
+            19245,
+            19246,
+            42934,
+            42943,
+            67035,
+            72600,
+            76329
+        ]
+    },
+    {
+        "id": 732,
+        "cover": 120933,
+        "involved_companies": [
+            55974,
+            55979,
+            55980
+        ],
+        "name": "Grand Theft Auto: San Andreas",
+        "updated_at": 1655681903,
+        "websites": [
+            12921,
+            12922,
+            12923,
+            12924,
+            12925,
+            12926,
+            67033,
+            72229,
+            72599
+        ]
+    },
+    {
+        "id": 119155,
+        "cover": 85371,
+        "involved_companies": [
+            79388,
+            79389
+        ],
+        "name": "Grand Theft Auto: Double Pack",
+        "updated_at": 1629053920,
+        "websites": [
+            213744,
+            213745,
+            213746,
+            213747,
+            213748
+        ]
+    },
+    {
+        "id": 8235,
+        "cover": 120925,
+        "involved_companies": [
+            20007,
+            79275,
+            82762,
+            82763
+        ],
+        "name": "Grand Theft Auto: London 1969",
+        "updated_at": 1653847215,
+        "websites": [
+            4916,
+            107698
+        ]
+    },
+    {
+        "id": 13233,
+        "cover": 123055,
+        "involved_companies": [
+            79277,
+            79278
+        ],
+        "name": "Grand Theft Auto: London 1961",
+        "updated_at": 1653847205,
+        "websites": [
+            4917,
+            107699,
+            107700
+        ]
+    },
+    {
+        "id": 194698,
+        "name": "Grand Theft Auto: San Andreas VR",
+        "updated_at": 1648208137
+    },
+    {
+        "id": 3270,
+        "cover": 120934,
+        "involved_companies": [
+            8549,
+            8550,
+            8551
+        ],
+        "name": "Grand Theft Auto: Chinatown Wars",
+        "updated_at": 1654647054,
+        "websites": [
+            1086,
+            72117,
+            79663,
+            123254
+        ]
+    },
+    {
+        "id": 191486,
+        "cover": 209290,
+        "name": "Grand Theft Auto: Montevideo City",
+        "updated_at": 1651121377
+    },
+    {
+        "id": 134709,
+        "cover": 122845,
+        "involved_companies": [
+            135449,
+            135450
+        ],
+        "name": "Grand Theft Auto V: Expanded and Enhanced",
+        "updated_at": 1655470385,
+        "websites": [
+            235200
+        ]
+    },
+    {
+        "id": 3262,
+        "cover": 120968,
+        "involved_companies": [
+            8507,
+            8508,
+            8515,
+            20016
+        ],
+        "name": "Grand Theft Auto: Vice City Stories",
+        "updated_at": 1653847373,
+        "websites": [
+            1078,
+            112339
+        ]
+    },
+    {
+        "id": 99753,
+        "cover": 85507,
+        "name": "Grand Theft Auto PS Vita Collection",
+        "updated_at": 1647195817
+    },
+    {
+        "id": 3263,
+        "cover": 120940,
+        "involved_companies": [
+            8510,
+            8511,
+            20015,
+            88967
+        ],
+        "name": "Grand Theft Auto: Liberty City Stories",
+        "updated_at": 1653847179,
+        "websites": [
+            1079,
+            4919,
+            76471,
+            123255,
+            128342
+        ]
+    },
+    {
+        "id": 43853,
+        "cover": 162362,
+        "involved_companies": [
+            54475,
+            54476,
+            54477
+        ],
+        "name": "Grand Theft Auto: Collector's Edition",
+        "updated_at": 1627468369
+    },
+    {
+        "id": 178123,
+        "cover": 190125,
+        "involved_companies": [
+            156283
+        ],
+        "name": "Grand Theft Auto III: The Definitive Edition",
+        "updated_at": 1646473884,
+        "websites": [
+            244797,
+            244798
+        ]
+    },
+    {
+        "id": 43687,
+        "cover": 123072,
+        "name": "Grand Theft Auto: London Special Edition",
+        "updated_at": 1630848697
+    },
+    {
+        "id": 143294,
+        "name": "Grand Theft Auto V: Premium Edition Bundle",
+        "updated_at": 1612805836
+    },
+    {
+        "id": 98077,
+        "cover": 85409,
+        "involved_companies": [
+            104257,
+            104258
+        ],
+        "name": "Grand Theft Auto V: Premium Online Edition",
+        "updated_at": 1655496482,
+        "websites": [
+            218027
+        ]
+    },
+    {
+        "id": 7003,
+        "cover": 120938,
+        "involved_companies": [
+            16562,
+            16563,
+            16564
+        ],
+        "name": "Grand Theft Auto: Episodes from Liberty City",
+        "updated_at": 1654004160,
+        "websites": [
+            40721,
+            40722
+        ]
+    },
+    {
+        "id": 53070,
+        "cover": 197344,
+        "involved_companies": [
+            156417,
+            156418
+        ],
+        "name": "Grand Theft Auto: The Trilogy - The Definitive Edition",
+        "updated_at": 1649796765,
+        "websites": [
+            234764,
+            234765,
+            234766,
+            245142,
+            245143,
+            245144
+        ]
+    },
+    {
+        "id": 178126,
+        "cover": 190127,
+        "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+        "updated_at": 1654790590,
+        "websites": [
+            244837,
+            244838
+        ]
+    },
+    {
+        "id": 178125,
+        "cover": 190126,
+        "name": "Grand Theft Auto: Vice City – The Definitive Edition",
+        "updated_at": 1654790588
+    },
+    {
+        "id": 22930,
+        "cover": 122838,
+        "name": "Grand Theft Auto III: 10 Year Anniversary Edition",
+        "updated_at": 1617565436
+    },
+    {
+        "id": 143293,
+        "name": "Grand Theft Auto V: Premium Edition & Megalodon Shark Card Bundle",
+        "updated_at": 1619099536
+    },
+    {
+        "id": 143295,
+        "name": "Grand Theft Auto V: Premium Edition & Great White Shark Card Bundle",
+        "updated_at": 1619099545
+    }
+]
