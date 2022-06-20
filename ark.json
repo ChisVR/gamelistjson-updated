@@ -1,0 +1,806 @@
+[
+    {
+        "id": 141542,
+        "cover": 226898,
+        "involved_companies": [
+            175228,
+            175229
+        ],
+        "name": "ARK II",
+        "updated_at": 1655227477,
+        "websites": [
+            289607,
+            289608,
+            289609,
+            289610
+        ]
+    },
+    {
+        "id": 11168,
+        "cover": 100093,
+        "involved_companies": [
+            100270,
+            100271
+        ],
+        "name": "Super Noah's Ark 3D",
+        "updated_at": 1650955729,
+        "websites": [
+            140708,
+            142050,
+            197092,
+            270512,
+            270513,
+            278389,
+            278390
+        ]
+    },
+    {
+        "id": 10239,
+        "cover": 198416,
+        "involved_companies": [
+            96995,
+            96996,
+            111238,
+            111239,
+            111240,
+            128182
+        ],
+        "name": "Ark: Survival Evolved",
+        "updated_at": 1655110619,
+        "websites": [
+            16991,
+            16992,
+            16993,
+            16994,
+            54989,
+            66338,
+            80312,
+            80313,
+            158564,
+            158565,
+            158566,
+            158567,
+            158568,
+            158569,
+            232062
+        ]
+    },
+    {
+        "id": 152344,
+        "cover": 162314,
+        "involved_companies": [
+            142081,
+            142082
+        ],
+        "name": "Ark: Ultimate Survivor Edition",
+        "updated_at": 1643732157,
+        "websites": [
+            204347,
+            204348,
+            204349,
+            204350,
+            204351,
+            204352,
+            204353,
+            204354,
+            204355,
+            204356,
+            222333
+        ]
+    },
+    {
+        "id": 26128,
+        "cover": 228259,
+        "involved_companies": [
+            116793,
+            116794,
+            162336,
+            162337,
+            162338
+        ],
+        "name": "Lost Ark",
+        "updated_at": 1655720175,
+        "websites": [
+            126819,
+            185894,
+            215900,
+            260042,
+            260043,
+            260044,
+            260045,
+            260046,
+            260047,
+            260048
+        ]
+    },
+    {
+        "id": 42484,
+        "cover": 125100,
+        "involved_companies": [
+            155563,
+            159982,
+            159983
+        ],
+        "name": "Mystic Ark",
+        "updated_at": 1655559832,
+        "websites": [
+            256611
+        ]
+    },
+    {
+        "id": 131698,
+        "cover": 93390,
+        "involved_companies": [
+            93624,
+            93625
+        ],
+        "name": "ARK: Genesis",
+        "updated_at": 1641999583,
+        "websites": [
+            136661,
+            136662,
+            161933,
+            247261
+        ]
+    },
+    {
+        "id": 50753,
+        "cover": 103014,
+        "name": "Tessa's Ark",
+        "updated_at": 1643864698,
+        "websites": [
+            52129,
+            52130,
+            143948
+        ]
+    },
+    {
+        "id": 169335,
+        "cover": 185628,
+        "involved_companies": [
+            152621
+        ],
+        "name": "ARK: The Center",
+        "updated_at": 1643896194,
+        "websites": [
+            223138,
+            223139
+        ]
+    },
+    {
+        "id": 157022,
+        "cover": 168020,
+        "name": "ARK-ADE",
+        "updated_at": 1652192363,
+        "websites": [
+            199876
+        ]
+    },
+    {
+        "id": 31250,
+        "cover": 104772,
+        "involved_companies": [
+            62828
+        ],
+        "name": "ARK Park",
+        "updated_at": 1646385372,
+        "websites": [
+            29785,
+            29786,
+            160365,
+            160366,
+            160367,
+            160368
+        ]
+    },
+    {
+        "id": 40016,
+        "cover": 133952,
+        "involved_companies": [
+            121741
+        ],
+        "name": "Ark Area",
+        "updated_at": 1651744865
+    },
+    {
+        "id": 15454,
+        "cover": 101106,
+        "involved_companies": [
+            47542,
+            47543,
+            170863,
+            170864
+        ],
+        "name": "Ys VI: The Ark of Napishtim",
+        "updated_at": 1655360147,
+        "websites": [
+            24725,
+            24726,
+            119992,
+            123006,
+            282514
+        ]
+    },
+    {
+        "id": 193398,
+        "cover": 212206,
+        "name": "The New Chronicles of Noah's Ark",
+        "updated_at": 1646642867,
+        "websites": [
+            268482
+        ]
+    },
+    {
+        "id": 82880,
+        "cover": 115880,
+        "involved_companies": [
+            115723,
+            115724
+        ],
+        "name": "Ark Noir",
+        "updated_at": 1643473924,
+        "websites": [
+            81755,
+            81756
+        ]
+    },
+    {
+        "id": 14921,
+        "cover": 21589,
+        "involved_companies": [
+            28857,
+            28858
+        ],
+        "name": "Space Ark",
+        "updated_at": 1643466123,
+        "websites": [
+            40537,
+            40538
+        ]
+    },
+    {
+        "id": 125776,
+        "name": "Ark Order",
+        "updated_at": 1620040093
+    },
+    {
+        "id": 133399,
+        "name": "Ark of War",
+        "updated_at": 1598400000
+    },
+    {
+        "id": 8466,
+        "cover": 8933,
+        "involved_companies": [
+            20830
+        ],
+        "name": "Cosmic Ark",
+        "updated_at": 1603238400
+    },
+    {
+        "id": 169794,
+        "cover": 208160,
+        "name": "Ark Mobius",
+        "updated_at": 1652660112,
+        "websites": [
+            223720
+        ]
+    },
+    {
+        "id": 163795,
+        "cover": 173891,
+        "name": "No!Ah!'s Ark",
+        "updated_at": 1652608007,
+        "websites": [
+            212345
+        ]
+    },
+    {
+        "id": 150496,
+        "cover": 173890,
+        "involved_companies": [
+            158152
+        ],
+        "name": "Noah's Ark",
+        "updated_at": 1638822204,
+        "websites": [
+            190962
+        ]
+    },
+    {
+        "id": 126745,
+        "cover": 101397,
+        "involved_companies": [
+            90065,
+            90066
+        ],
+        "name": "Chrono Ark",
+        "updated_at": 1649450897,
+        "websites": [
+            129422,
+            129423,
+            129424,
+            129425
+        ]
+    },
+    {
+        "id": 48192,
+        "cover": 52852,
+        "involved_companies": [
+            100264,
+            100265
+        ],
+        "name": "Noah's Ark",
+        "updated_at": 1643451538,
+        "websites": [
+            142048,
+            142049,
+            231394
+        ]
+    },
+    {
+        "id": 167189,
+        "cover": 208161,
+        "name": "Ark of Loif",
+        "updated_at": 1644231283,
+        "websites": [
+            218199
+        ]
+    },
+    {
+        "id": 64460,
+        "cover": 86836,
+        "name": "Shining Ark",
+        "updated_at": 1598400000,
+        "websites": [
+            127320
+        ]
+    },
+    {
+        "id": 193982,
+        "name": "Ark Legends",
+        "updated_at": 1646817726,
+        "websites": [
+            269398
+        ]
+    },
+    {
+        "id": 110535,
+        "cover": 167505,
+        "name": "Xenia's Ark",
+        "updated_at": 1645696975,
+        "websites": [
+            91451,
+            91452
+        ]
+    },
+    {
+        "id": 2310,
+        "cover": 113888,
+        "involved_companies": [
+            5303,
+            5304
+        ],
+        "name": "Ark of Time",
+        "updated_at": 1652314377
+    },
+    {
+        "id": 148564,
+        "cover": 168023,
+        "name": "Ark of Artemis",
+        "updated_at": 1649010743,
+        "websites": [
+            188723
+        ]
+    },
+    {
+        "id": 195821,
+        "cover": 215203,
+        "name": "Ark Defender",
+        "updated_at": 1649129199,
+        "websites": [
+            273226
+        ]
+    },
+    {
+        "id": 144552,
+        "cover": 133442,
+        "involved_companies": [
+            167267,
+            167268
+        ],
+        "name": "Lila's Sky Ark",
+        "updated_at": 1651159329,
+        "websites": [
+            173112,
+            173113,
+            173114,
+            173115,
+            246141,
+            278311,
+            278312
+        ]
+    },
+    {
+        "id": 175701,
+        "name": "The Fifth Ark",
+        "updated_at": 1633596567
+    },
+    {
+        "id": 56853,
+        "cover": 32137,
+        "name": "Heroes of Ark",
+        "updated_at": 1516579200
+    },
+    {
+        "id": 76206,
+        "cover": 139758,
+        "involved_companies": [
+            96992
+        ],
+        "name": "ARK: Aberration",
+        "updated_at": 1651576345,
+        "websites": [
+            62617,
+            80414,
+            80415
+        ]
+    },
+    {
+        "id": 78614,
+        "cover": 60829,
+        "name": "The Space Ark",
+        "updated_at": 1598400000
+    },
+    {
+        "id": 158807,
+        "cover": 184284,
+        "name": "Queerskins: ark",
+        "updated_at": 1646015382,
+        "websites": [
+            201977
+        ]
+    },
+    {
+        "id": 161703,
+        "cover": 192847,
+        "name": "Tournament Ark",
+        "updated_at": 1643467483,
+        "websites": [
+            208794
+        ]
+    },
+    {
+        "id": 103515,
+        "cover": 93391,
+        "involved_companies": [
+            96993
+        ],
+        "name": "ARK: Extinction",
+        "updated_at": 1631096812,
+        "websites": [
+            80416,
+            80417,
+            92294
+        ]
+    },
+    {
+        "id": 103798,
+        "name": "Ashes of the Ark",
+        "updated_at": 1633085318,
+        "websites": [
+            83194
+        ]
+    },
+    {
+        "id": 86794,
+        "cover": 63211,
+        "name": "The Ark of Craft",
+        "updated_at": 1644973031,
+        "websites": [
+            72208
+        ]
+    },
+    {
+        "id": 8364,
+        "cover": 103266,
+        "involved_companies": [
+            64321,
+            64322
+        ],
+        "name": "InSomnia: The Ark",
+        "updated_at": 1643441395,
+        "websites": [
+            77863,
+            87648,
+            194643
+        ]
+    },
+    {
+        "id": 121425,
+        "cover": 134136,
+        "involved_companies": [
+            144009,
+            161778
+        ],
+        "name": "Arcade Archives: Ark Area",
+        "updated_at": 1651744865
+    },
+    {
+        "id": 183723,
+        "name": "Noah's Ark demake",
+        "updated_at": 1639606617,
+        "websites": [
+            249781
+        ]
+    },
+    {
+        "id": 72550,
+        "cover": 72492,
+        "involved_companies": [
+            76144
+        ],
+        "name": "Prism Ark: Prism Heart II",
+        "updated_at": 1598400000
+    },
+    {
+        "id": 30576,
+        "cover": 168022,
+        "name": "ARK BOX Unlimited",
+        "updated_at": 1643473375,
+        "websites": [
+            28694,
+            28695
+        ]
+    },
+    {
+        "id": 117162,
+        "cover": 129047,
+        "name": "The Ark of Horizon",
+        "updated_at": 1612286704
+    },
+    {
+        "id": 103514,
+        "cover": 66604,
+        "involved_companies": [
+            65798,
+            96994
+        ],
+        "name": "ARK: Scorched Earth",
+        "updated_at": 1643896914,
+        "websites": [
+            80411,
+            80412,
+            80413
+        ]
+    },
+    {
+        "id": 99883,
+        "name": "Ark of War: Republic",
+        "updated_at": 1604620800
+    },
+    {
+        "id": 45896,
+        "cover": 54806,
+        "name": "Ultimate Noah's Ark",
+        "updated_at": 1604620800
+    },
+    {
+        "id": 51096,
+        "cover": 37455,
+        "name": "Anima: Ark of Sinners",
+        "updated_at": 1651838161
+    },
+    {
+        "id": 46063,
+        "cover": 214899,
+        "involved_companies": [
+            132561,
+            132562
+        ],
+        "name": "Shining the Holy Ark",
+        "updated_at": 1649095273
+    },
+    {
+        "id": 136646,
+        "name": "ARK Park: Deluxe Edition",
+        "updated_at": 1630521217
+    },
+    {
+        "id": 126284,
+        "cover": 85660,
+        "involved_companies": [
+            87710
+        ],
+        "name": "Trip the Ark Fantastic",
+        "updated_at": 1645789619,
+        "websites": [
+            125299,
+            125300,
+            125301,
+            125302
+        ]
+    },
+    {
+        "id": 199948,
+        "name": "Soul Ark: Brave and Fate",
+        "updated_at": 1651605200,
+        "websites": [
+            280599
+        ]
+    },
+    {
+        "id": 95143,
+        "cover": 113917,
+        "name": "ARK -the lost fairytale-",
+        "updated_at": 1643452328,
+        "websites": [
+            81685,
+            81686
+        ]
+    },
+    {
+        "id": 18036,
+        "cover": 14237,
+        "involved_companies": [
+            33109
+        ],
+        "name": "Raiders of the Lost Ark",
+        "updated_at": 1630045667,
+        "websites": [
+            95960,
+            95961,
+            95962
+        ]
+    },
+    {
+        "id": 200897,
+        "involved_companies": [
+            170865,
+            170866
+        ],
+        "name": "Ys VI: The Ark of Napishtim",
+        "updated_at": 1652280567
+    },
+    {
+        "id": 71277,
+        "cover": 141950,
+        "name": "EVE Zero: Ark of the Matter",
+        "updated_at": 1622463090
+    },
+    {
+        "id": 67326,
+        "cover": 48918,
+        "involved_companies": [
+            167745,
+            167746
+        ],
+        "name": "Mystic Ark: Maboroshi Gekijo",
+        "updated_at": 1649877692
+    },
+    {
+        "id": 197289,
+        "cover": 217267,
+        "name": "Ark Mobius: Censored Edition",
+        "updated_at": 1652608039,
+        "websites": [
+            275624
+        ]
+    },
+    {
+        "id": 24412,
+        "cover": 198153,
+        "involved_companies": [
+            39915,
+            39916,
+            39917,
+            39918
+        ],
+        "name": "ARK: Survival Of The Fittest",
+        "updated_at": 1643865281,
+        "websites": [
+            23198,
+            23199
+        ]
+    },
+    {
+        "id": 75851,
+        "cover": 44542,
+        "involved_companies": [
+            58008
+        ],
+        "name": "Metal Saga: The Ark of Wastes",
+        "updated_at": 1604620800,
+        "websites": [
+            112630
+        ]
+    },
+    {
+        "id": 105244,
+        "name": "The Chronicles of Noah's Ark",
+        "updated_at": 1644978396,
+        "websites": [
+            82699,
+            82700
+        ]
+    },
+    {
+        "id": 194149,
+        "name": "Jurassic Island: Lost Ark Survival",
+        "updated_at": 1646827870,
+        "websites": [
+            269570
+        ]
+    },
+    {
+        "id": 118717,
+        "cover": 86981,
+        "involved_companies": [
+            123465,
+            123466,
+            123467,
+            123468,
+            123469
+        ],
+        "name": "ARK: Survival Evolved – Explorer's Edition",
+        "updated_at": 1633855352,
+        "websites": [
+            176082,
+            176083,
+            176084,
+            176085,
+            176086,
+            176087,
+            176088,
+            176089,
+            176090,
+            176091,
+            176092,
+            176093
+        ]
+    },
+    {
+        "id": 62688,
+        "name": "Rick Ribbit in Ark Noodle's Math Challenge",
+        "updated_at": 1598400000
+    },
+    {
+        "id": 26230,
+        "cover": 141253,
+        "name": "Gravity Rush 2: The Ark of Time – Raven's Choice",
+        "updated_at": 1621875719
+    },
+    {
+        "id": 136152,
+        "cover": 185629,
+        "involved_companies": [
+            152622
+        ],
+        "name": "ARK: Survival Evolved - Limited Collector's Edition",
+        "updated_at": 1633934033
+    },
+    {
+        "id": 92796,
+        "name": "A Tribute to the Rolling Boulder (from Raiders of the Lost Ark)",
+        "updated_at": 1598400000
+    },
+    {
+        "id": 1152,
+        "cover": 116987,
+        "involved_companies": [
+            2696,
+            2698,
+            2699,
+            20410,
+            20411
+        ],
+        "name": "Broken Sword: The Angel of Death",
+        "updated_at": 1652300726,
+        "websites": [
+            46873,
+            46874,
+            118673,
+            156045
+        ]
+    }
+]
