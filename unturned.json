@@ -1,0 +1,42 @@
+[
+    {
+        "id": 7878,
+        "cover": 130999,
+        "involved_companies": [
+            18400,
+            46818
+        ],
+        "name": "Unturned",
+        "updated_at": 1654635774,
+        "websites": [
+            22293,
+            22295,
+            66443,
+            112797,
+            112798,
+            112799
+        ]
+    },
+    {
+        "id": 39760,
+        "cover": 122530,
+        "involved_companies": [
+            52019,
+            52020,
+            98106
+        ],
+        "name": "Mafia III: Stones Unturned",
+        "updated_at": 1642208344,
+        "websites": [
+            49988,
+            51812,
+            51813,
+            194883
+        ]
+    },
+    {
+        "id": 174914,
+        "name": "Unturned Zombie PixelCraft",
+        "updated_at": 1633463019
+    }
+]
