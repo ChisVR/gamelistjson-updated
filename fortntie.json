@@ -1,0 +1,475 @@
+[
+    {
+        "id": 1905,
+        "cover": 112205,
+        "involved_companies": [
+            50303,
+            105011
+        ],
+        "name": "Fortnite",
+        "updated_at": 1655585740,
+        "websites": [
+            372,
+            5350,
+            38727,
+            38728,
+            38729,
+            38730,
+            38731,
+            78144,
+            120071,
+            139054,
+            216111,
+            232103,
+            232104
+        ]
+    },
+    {
+        "id": 129878,
+        "cover": 141245,
+        "involved_companies": [
+            92958,
+            92959
+        ],
+        "name": "Fortnite: Season 2",
+        "updated_at": 1631395093,
+        "websites": [
+            134722,
+            134723,
+            134724,
+            134725,
+            134726,
+            134727,
+            134728,
+            134729,
+            134730
+        ]
+    },
+    {
+        "id": 129877,
+        "cover": 92101,
+        "involved_companies": [
+            92955,
+            92956
+        ],
+        "name": "Fortnite: Season 3",
+        "updated_at": 1626372046,
+        "websites": [
+            134685,
+            134686,
+            134687,
+            134688,
+            134689,
+            134690,
+            134691,
+            134692,
+            134693
+        ]
+    },
+    {
+        "id": 129876,
+        "cover": 92100,
+        "involved_companies": [
+            92953,
+            92954
+        ],
+        "name": "Fortnite: Season 4",
+        "updated_at": 1626371981,
+        "websites": [
+            134675,
+            134676,
+            134677,
+            134678,
+            134679,
+            134680,
+            134681,
+            134682,
+            134683
+        ]
+    },
+    {
+        "id": 129875,
+        "cover": 92099,
+        "involved_companies": [
+            92951,
+            92952
+        ],
+        "name": "Fortnite: Season 5",
+        "updated_at": 1641200126,
+        "websites": [
+            134622,
+            134623,
+            134624,
+            134625,
+            134626,
+            134627,
+            134628,
+            134629,
+            134630
+        ]
+    },
+    {
+        "id": 129874,
+        "cover": 92098,
+        "involved_companies": [
+            92949,
+            92950
+        ],
+        "name": "Fortnite: Season 6",
+        "updated_at": 1626371975,
+        "websites": [
+            134570,
+            134571,
+            134572,
+            134573,
+            134574,
+            134575,
+            134576,
+            134577,
+            134578
+        ]
+    },
+    {
+        "id": 129873,
+        "cover": 92097,
+        "involved_companies": [
+            92947,
+            92948
+        ],
+        "name": "Fortnite: Season 7",
+        "updated_at": 1626371992,
+        "websites": [
+            134492,
+            134493,
+            134494,
+            134495,
+            134496,
+            134497,
+            134498,
+            134499,
+            134500
+        ]
+    },
+    {
+        "id": 129872,
+        "cover": 92096,
+        "involved_companies": [
+            92945,
+            92946
+        ],
+        "name": "Fortnite: Season 8",
+        "updated_at": 1641200121,
+        "websites": [
+            134413,
+            134414,
+            134415,
+            134416,
+            134417,
+            134418,
+            134419,
+            134420,
+            134421
+        ]
+    },
+    {
+        "id": 129871,
+        "cover": 92095,
+        "involved_companies": [
+            92943,
+            92944
+        ],
+        "name": "Fortnite: Season 9",
+        "updated_at": 1641200138,
+        "websites": [
+            134282,
+            134283,
+            134284,
+            134285,
+            134286,
+            134287,
+            134288,
+            134289,
+            134290
+        ]
+    },
+    {
+        "id": 129870,
+        "cover": 92094,
+        "involved_companies": [
+            92941,
+            92942
+        ],
+        "name": "Fortnite: Season X",
+        "updated_at": 1626371998,
+        "websites": [
+            134119,
+            134120,
+            134121,
+            134122,
+            134123,
+            134124,
+            134125,
+            134126,
+            134127
+        ]
+    },
+    {
+        "id": 183639,
+        "cover": 218503,
+        "involved_companies": [
+            158633,
+            158634
+        ],
+        "name": "Fortnite: Chapter 3",
+        "updated_at": 1654501176,
+        "websites": [
+            252435,
+            252436,
+            277881,
+            277882,
+            277883,
+            277884,
+            277885,
+            277886,
+            277887,
+            277888,
+            277889
+        ]
+    },
+    {
+        "id": 129880,
+        "cover": 92188,
+        "involved_companies": [
+            92960,
+            92961
+        ],
+        "name": "Fortnite: Chapter 2",
+        "updated_at": 1650640988,
+        "websites": [
+            134779,
+            134780,
+            134781,
+            134782,
+            134783,
+            134784,
+            134785,
+            134786,
+            134787
+        ]
+    },
+    {
+        "id": 135967,
+        "name": "Fortnite: Darkfire Bundle",
+        "updated_at": 1646218942
+    },
+    {
+        "id": 129912,
+        "cover": 95325,
+        "involved_companies": [
+            94858,
+            94859
+        ],
+        "name": "Fortnite: Chapter 2 - Season 2",
+        "updated_at": 1650640778,
+        "websites": [
+            137610,
+            137611,
+            137612,
+            137613,
+            137614,
+            137615,
+            137616
+        ]
+    },
+    {
+        "id": 203486,
+        "cover": 225118,
+        "involved_companies": [
+            173806
+        ],
+        "name": "Fortnite: Chapter 3 - Season 3",
+        "updated_at": 1654501176,
+        "websites": [
+            287302,
+            287303,
+            287304,
+            287305,
+            287306,
+            287307,
+            287308,
+            287309,
+            287310,
+            287311
+        ]
+    },
+    {
+        "id": 110839,
+        "cover": 68848,
+        "involved_companies": [
+            87901
+        ],
+        "name": "Fortnite: Deep Freeze Bundle",
+        "updated_at": 1631150025,
+        "websites": [
+            92591,
+            92592,
+            92593,
+            92594,
+            92595,
+            92596
+        ]
+    },
+    {
+        "id": 135138,
+        "cover": 111879,
+        "involved_companies": [
+            102072,
+            102073
+        ],
+        "name": "Fortnite: Chapter 2 - Season 3",
+        "updated_at": 1650640779,
+        "websites": [
+            144409,
+            144410,
+            144411,
+            144412,
+            144413,
+            144414,
+            144415
+        ]
+    },
+    {
+        "id": 194664,
+        "cover": 213547,
+        "involved_companies": [
+            165980
+        ],
+        "name": "Fortnite: Chapter 3 - Season 2",
+        "updated_at": 1650642198,
+        "websites": [
+            277890,
+            277891,
+            277892,
+            277893,
+            277894,
+            277895,
+            277896,
+            277897,
+            277898,
+            277899
+        ]
+    },
+    {
+        "id": 171971,
+        "cover": 180001,
+        "involved_companies": [
+            157684
+        ],
+        "name": "Fortnite: Chapter 2 - Season 8",
+        "updated_at": 1650640988,
+        "websites": [
+            248311,
+            248312,
+            248313,
+            248314,
+            248315,
+            248316,
+            248317,
+            248318,
+            248319,
+            248320
+        ]
+    },
+    {
+        "id": 151996,
+        "cover": 151469,
+        "involved_companies": [
+            138161
+        ],
+        "name": "Fortnite: Chapter 2 - Season 7",
+        "updated_at": 1650640781,
+        "websites": [
+            185565,
+            185566,
+            185567,
+            185568,
+            185569,
+            185570,
+            185571
+        ]
+    },
+    {
+        "id": 145071,
+        "cover": 138098,
+        "involved_companies": [
+            122514
+        ],
+        "name": "Fortnite: Chapter 2 - Season 6",
+        "updated_at": 1650640780,
+        "websites": [
+            174896,
+            174897,
+            174898,
+            174899,
+            174900,
+            174901,
+            174902
+        ]
+    },
+    {
+        "id": 140974,
+        "cover": 125063,
+        "involved_companies": [
+            116228,
+            116229
+        ],
+        "name": "Fortnite: Chapter 2 - Season 5",
+        "updated_at": 1650640780,
+        "websites": [
+            165273,
+            165274,
+            165275,
+            165276,
+            165277,
+            165278,
+            165279
+        ]
+    },
+    {
+        "id": 138342,
+        "cover": 114137,
+        "involved_companies": [
+            107607,
+            107608
+        ],
+        "name": "Fortnite: Chapter 2 - Season 4",
+        "updated_at": 1650640779,
+        "websites": [
+            152362,
+            152363,
+            152364,
+            152365,
+            152366,
+            152367,
+            152368
+        ]
+    },
+    {
+        "id": 90660,
+        "name": "Fortnite - Deluxe Founder's Pack",
+        "updated_at": 1639000487
+    },
+    {
+        "id": 139889,
+        "cover": 125102,
+        "involved_companies": [
+            117322
+        ],
+        "name": "Fortnite: The Last Laugh Bundle",
+        "updated_at": 1655456841,
+        "websites": [
+            166596,
+            216498
+        ]
+    }
+]
